@@ -1,0 +1,5 @@
+.virtualenvs
+.DS_Store
+*.pyc
+*.pyo
+__pycache__
