@@ -1,7 +1,1 @@
-.virtualenvs
-data
-__pycache__
 .ipynb_checkpoints/
-*.pkl
-models
-*.pyc
