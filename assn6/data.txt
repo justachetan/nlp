@@ -1,0 +1,3 @@
+Singular    Plural
+answer    answers
+question    questions

@@ -1,0 +1,32 @@
+i	PRP
+'d	MD
+wan	VB
+na	TO
+eat	VB
+food	NN
+.	.
+
+
+some	DT
+french	JJ
+restaurants	NNS
+please	UH
+.	.
+
+
+i	PRP
+'d	MD
+wan	VB
+na	TO
+eat	VB
+food	NN
+.	.
+
+
+some	DT
+french	NN
+restaurants	NN
+please	NN
+.	.
+
+

@@ -1,0 +1,4 @@
+.virtualenvs
+.DS_Store
+models
+data
