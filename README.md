@@ -24,3 +24,8 @@ This course will end with more advanced topics in NLP such as stylometry analysi
 - Advance topics: Sentiment analysis, Stylometry analysis
 - Advance topics: Web mining, Named-entity disambiguation
 
+## License 
+
+Copyright (c) 2019 Aditya Chetan
+
+For license information, see [LICENSE](LICENSE) or http://mit-license.org
